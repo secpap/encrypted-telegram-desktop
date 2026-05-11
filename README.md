@@ -44,7 +44,6 @@ The latest version is available for
 [//]: # (LINKS)
 [telegram_api]: https://core.telegram.org
 [telegram_proto]: https://core.telegram.org/mtproto
-[license]: LICENSE
 [win]: docs/building-win.md
 [mac]: docs/building-mac.md
 [linux]: docs/building-linux.md
